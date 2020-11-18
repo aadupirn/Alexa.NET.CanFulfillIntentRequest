@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Response
+﻿namespace VoicifyAlexa.NET.Response
 {
     public enum CanUnderstand
     {

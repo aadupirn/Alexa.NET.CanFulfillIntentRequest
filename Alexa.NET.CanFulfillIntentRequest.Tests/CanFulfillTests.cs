@@ -1,13 +1,13 @@
 using System;
 using System.IO;
-using Alexa.NET.Request;
-using Alexa.NET.Request.Type;
-using Alexa.NET.Response;
+using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Request.Type;
+using VoicifyAlexa.NET.Response;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.CanFulfillIntentRequest.Tests
+namespace VoicifyAlexa.NET.CanFulfillIntentRequest.Tests
 {
     public class CanFulfillTests
     {

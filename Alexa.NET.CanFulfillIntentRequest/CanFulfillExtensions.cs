@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Response;
+using VoicifyAlexa.NET.Response;
 
-namespace Alexa.NET
+namespace VoicifyAlexa.NET
 {
     public static class CanFulfillExtensions
     {

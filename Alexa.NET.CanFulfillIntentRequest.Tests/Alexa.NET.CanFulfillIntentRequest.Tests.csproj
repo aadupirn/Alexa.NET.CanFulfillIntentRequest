@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Alexa.NET.CanFulfillIntentRequest\Alexa.NET.CanFulfillIntentRequest.csproj" />
+    <ProjectReference Include="..\Alexa.NET.CanFulfillIntentRequest\VoicifyAlexa.NET.CanFulfillIntentRequest.csproj" />
   </ItemGroup>
 
   <ItemGroup>

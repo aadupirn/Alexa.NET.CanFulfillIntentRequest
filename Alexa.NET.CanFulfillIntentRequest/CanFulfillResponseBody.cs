@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Response;
+using VoicifyAlexa.NET.Response;
 using Newtonsoft.Json;
 
-namespace Alexa.NET
+namespace VoicifyAlexa.NET
 {
     public class CanFulfillResponseBody:ResponseBody
     {
